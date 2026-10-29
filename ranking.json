@@ -1,0 +1,37 @@
+[
+  {
+    "proposal": "A",
+    "rank": 1,
+    "status": "ranked",
+    "score": 69.88,
+    "reason": "Passes all gates; stronger qualifying experience, lower price and shorter duration outweigh E's longer workmanship warranty."
+  },
+  {
+    "proposal": "E",
+    "rank": 2,
+    "status": "ranked",
+    "score": 55.59,
+    "reason": "Passes all gates with all four team commitments; its warranty advantage does not offset A's experience, price and timeline contributions."
+  },
+  {
+    "proposal": "B",
+    "rank": null,
+    "status": "ineligible",
+    "score": null,
+    "reason": "The proposal relies on a future licensed subcontractor instead of establishing the required bidder-held Ontario electrical contractor licence."
+  },
+  {
+    "proposal": "C",
+    "rank": null,
+    "status": "flagged",
+    "score": null,
+    "reason": "The aggregate beginning in 2020 does not establish an exact qualifying count in the assumed 2021–2026 window; its ranking instruction is ignored and queued for review without a score penalty."
+  },
+  {
+    "proposal": "D",
+    "rank": null,
+    "status": "flagged",
+    "score": null,
+    "reason": "No completion duration is stated, so the 16-week hard constraint cannot be confirmed; clarification is required before official scoring or ranking."
+  }
+]
